@@ -46,6 +46,7 @@ Gauteng, Western Cape and KwaZulu-Natal consistently ranked as the provinces wit
 
 ### Police Station Analysis
 Certain police stations within high-density urban areas, such as Johannesburg Central and Durban Central, reported consistently higher crime numbers. These stations could benefit from additional resources to handle the growing crime rates in their jurisdictions.
+
 ![Dataset](https://github.com/NondumisoStevens/South-Africa-Crime-Statistics-Analysis-2005-2015-/blob/main/Screenshot%20(263).png)
 
 ## 5. Recommendations
